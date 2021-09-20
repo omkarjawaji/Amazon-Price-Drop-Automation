@@ -1,7 +1,7 @@
 # Amazon-Price-Drop-Automation 
 
 ## Description:
-An automation which can notify a drop in price of an amazon product using Python with libraries like BeautifulSoup requests, email, SMTP, SSL, etc
+A Webapp running an automation script which can notify a drop in price via email, of an amazon product using Python with libraries like BeautifulSoup requests, email, SMTP, SSL, etc.
 
 ### Completed Modules:
 1. Script for fetching current and storing previous prices for comparision.
